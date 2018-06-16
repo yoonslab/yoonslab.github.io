@@ -10,7 +10,7 @@ url:                 https://yoonslab.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             "//yoonslab.github.io"
+baseurl:             ""
 
 # A very short description of your page
 tagline:             게으른 데이터 사이언티스트
