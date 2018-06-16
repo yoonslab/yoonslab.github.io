@@ -7,32 +7,48 @@ order: 10
 
 ## 소개
 
+안녕하세요, 저는 김은종입니다. 개발성향이 강한(?) 데이터 분석하는 사람입니다.
+
+딘순히 생각하는 것보다 아이디어를 구현시키는 것을 굉장히 좋아합니다. 
+
+많은 사람들이 보다 쉽게 데이터 분석을 할 수 있는 환경을 만드는 것을 꿈꿉니다.
+
+피드백은 언제나 환영합니다.
+
 
 ## 약력
 
+- 現 펜타시스템테크놀러지(주) 데이터 과학자로 근무 중
 
-## 사이드프로젝트
+- citibeat : 도시맞춤형 실시간 음악추천 서비스 어플리케이션 개발 - 데이터분석 파트
 
-- [react-redux-material-meteor](https://github.com/isme2n/react-redux-material-meteor) - 보일러 플레이트
+- 빅데이터를 활용한 세종시 대중교통 활성화 방안 프로젝트(S3-PROJECT) 기획 및 PM
 
-- [48Wedding](http://48wedding.com) - 웨딩카드 만들기 서비스
+- 고려대학교 세종캠퍼스 정보통계학 전공
 
-- [secretary](https://chrome.google.com/webstore/detail/secretary/bijcgcgbhmeemlnidoigdcnokggknikb?hl=ko) - 기사요약 크롬 확장서비스
+- 석탑야간학교 교장 역임
 
-- [이미지필터](https://github.com/isme2n/react-image-filter-app) - 캔버스 이미지 필터를 공부하며 만든 샘플 앱
+- 해군 작전사령부 CERT 근무
 
-- [유튜브 함께보기](https://youtu.be/7IFEO9D6G4Y) - 유튜브 동영상을 다른사람들과 함께 보며 대화를 나누는 앱
+- 경기도 성남 출생
 
-## 발표
+## 수상경력
 
-- [GDG Summer Party 테크니컬 세션 - 자바스크립트 제대로 알기](https://www.slideshare.net/MinPark48/ss-79004233)
+- 빅데이터 청년인재 프로젝트 최우수상 - 한국데이터진흥원
 
-## 강의
+- 세종특별자치시 현안 분석 프로젝트(S3-PROJECT) 1위 수상 - 고려대학교 미래인재개발원
 
-- [React로 라이브 컴파일러 만들기](https://www.youtube.com/playlist?list=PLBrx45N7b6tkdisu8ZhKs02tEf5wDuk2W)
+- 고려대학교 국가통계·빅데이터 학술제 최우수상 - 고려대학교 공공정책대학
 
-## 하고싶은 말
+## 프로젝트 경험
 
-다양한 사이드 프로젝트 제안, 친구 제안, 번개 제안 등등 해주시면 좋아합니다.
+- [2017 공공빅데이터 표준분석모델 구축](http://datanet.co.kr/news/articleView.html?idxno=119642) - 기부자원분야
 
-행복하세요 오늘도.
+- [citibeat](https://vimeo.com/235217105) - 도시맞춤형 실시간 음악추천 서비스 어플리케이션
+
+- [S3-PROJECT](http://rpubs.com/mclovin) - 빅데이터를 활용한 세종시 대중교통 활성화 방안
+
+
+## 좋아하는 글귀
+
+Done is better than perfect! (완수하는 것이 완벽한 것보다 낫다!) - Mark Zuckerberg
