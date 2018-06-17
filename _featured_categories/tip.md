@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Pro Tips
+title: Tip
 slug: tip
 menu: true
 submenu: false

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: JavaScript
-slug: javascript
+title: Python
+slug: python
 category: devlog
 menu: false
 order: 1

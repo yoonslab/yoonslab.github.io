@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Jekyll
-slug: jekyll
+title: Deep Learning
+slug: deep learning
 category: devlog
 menu: false
-order: 3
+order: 1
 ---

@@ -1,9 +1,9 @@
 ---
 layout: tag-blog
-title: Vue
-slug: vue
+title: R
+slug: r
 category: devlog
 menu: false
 order: 2
-header-img: "/img/vue-logo.png"
+header-img: "/img/aws-logo.png"
 ---
