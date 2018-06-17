@@ -24,6 +24,7 @@ comments: true
 
 원래 [Steemit](https://steemit.com/)이나 [Medium](https://medium.com) 그리고 [Brunch](http://brunch.co.kr) 세 플랫폼 중 하나로 선택하려 했지만
 
+좀더 자유롭게 꾸밀 수 있는 장점이 있는 깃헙 페이지로 선택하였다. (사실 카카오가 Tistory, Brunch를 안쓰고 깃헙 페이지를 쓰는 것이 제일 큼.. 카카오 미안해요2)
 
 ## 앞으로?
 
