@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: MongoDB
-slug: mongodb
+title: Tableau
+slug: tableau
 category: devlog
 menu: false
 order: 3
