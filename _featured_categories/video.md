@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 5
 description: >
-  비디오를 기반으로 한 아트웍이나, 강좌, 어떤 주저리등을 담습니다.
+  비디오 기반 강좌나 인사이트를 받은 자료들을 담습니다.
 ---

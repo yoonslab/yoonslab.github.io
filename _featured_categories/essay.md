@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 4
 description: >
-  평소 생각과 쓰고싶은 글을 씁니다.
+  간단하게 생각을 정리해서 쓰는 공간입니다.
 ---
