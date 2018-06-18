@@ -7,7 +7,7 @@ tags: blog
 comments: true
 ---
 
-## 왜 블로그를 만들었는가?
+## 블로그를 만든 이유?
 
 빅데이터 공부할 때 [네이버 D2](https://d2.naver.com/home)나 [SK플래닛 기술블로그](https://readme.skplanet.com/)를 많이 참고한다. (카카오 미안해요.. 빅데이터 관련 포스팅 좀 많이 해줬으면..)
 
