@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Spark
 slug: spark
-category: devlog
+category: lab notes
 menu: false
 order: 3
 ---

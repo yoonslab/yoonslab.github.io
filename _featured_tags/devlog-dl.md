@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Deep Learning
 slug: deep learning
-category: devlog
+category: lab notes
 menu: false
 order: 1
 ---
