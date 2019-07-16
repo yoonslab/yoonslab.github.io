@@ -60,9 +60,9 @@ defaults:
       layout: "post"
       comments: true
 
-# Atom feed
+# RSS feed
 feed:
-  path: atom.xml
+  path: feed.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
