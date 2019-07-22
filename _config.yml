@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "yoonslab, Yoon's Lab, Yoon's Lab Note, yoonslab note, Yoon Kim, blog, Eunjong, Eunjong Kim, Data Science, Machine Learning, Deep Learning, DS, ML, DL, penta, penta system, penta system techonology, 김은종, 펜타, 펜타시스템, 펜타시스템테크놀러지"
+keywords: "yoonslab, Yoon's Lab, Yoon's Lab Note, yoonslab note, R, Python, Programming, Yoon Kim, blog, Eunjong, Eunjong Kim, Data Science, Machine Learning, Deep Learning, DS, ML, DL, penta, penta system, penta system techonology, 김은종, 펜타, 펜타시스템, 펜타시스템테크놀러지"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
