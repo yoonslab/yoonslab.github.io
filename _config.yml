@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Yoon's Lab Note
+title: "Yoon's Lab Note"
 subtitle:
-description: {HCI · AI · DL} in Data Science
+description: "{HCI · AI · DL} in Data Science"
 author: Yoon Kim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
