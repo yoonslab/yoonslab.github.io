@@ -130,7 +130,7 @@
     box-sizing: border-box;
 }
 body {
-  background-color: #d3d3d3;
+  background-color: #dedcd8;
   margin-bottom: 20px;
 }
 html, button, input, select, textarea {
@@ -156,7 +156,7 @@ a.more-link {
     background-color: #92a4ad;
     padding: 10px 15px;
     border-radius: 0;
-    color: #416475;
+    color: #92a4ad;
     display: inline-block;
     margin-right: 5px;
     margin-bottom: 5px;
