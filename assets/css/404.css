@@ -130,8 +130,8 @@
     box-sizing: border-box;
 }
 body {
-  background-color: #416475;
-  margin-bottom: 50px;
+  background-color: #d3d3d3;
+  margin-bottom: 20px;
 }
 html, button, input, select, textarea {
     font-family: 'Montserrat', Helvetica, sans-serif;
