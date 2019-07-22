@@ -131,7 +131,7 @@
 }
 body {
   background-color: #dedcd8;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 html, button, input, select, textarea {
     font-family: 'Montserrat', Helvetica, sans-serif;
@@ -156,7 +156,7 @@ a.more-link {
     background-color: #92a4ad;
     padding: 10px 15px;
     border-radius: 0;
-    color: #92a4ad;
+    color: #607c8b;
     display: inline-block;
     margin-right: 5px;
     margin-bottom: 5px;
