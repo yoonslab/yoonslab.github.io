@@ -30,4 +30,9 @@
       @include circle();
     }
   }
+  
+  .posts-collapse {
+    z-index: initial;
+  }
+
 }
