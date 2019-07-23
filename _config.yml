@@ -7,7 +7,7 @@
 title: Yoon's Lab Note
 subtitle:
 description: Yoon Kim 기술 블로그, {HCI · AI · DL} in Data Science
-signature : "{HCI · AI · DL} in Data Science"
+signature :  {HCI · AI · DL} in Data Science
 author: Yoon Kim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -175,7 +175,7 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Sunflower
+    family:
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
