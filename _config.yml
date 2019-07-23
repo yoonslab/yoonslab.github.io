@@ -193,13 +193,13 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: Sunflower
+    family:
     size:
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Nanum Gothic Coding
     size:
 
 
