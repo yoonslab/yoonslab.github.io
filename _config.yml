@@ -118,13 +118,13 @@ index_with_subtitle: true
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: / || home
-  archives: /archives/ || archive
-  categories: /categories/ || th
-  tags: /tags/ || tags
-  about: /about/ || user
-  #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404.html || hearbeat
+  home: /
+  archives: /archives/
+  categories: /categories/
+  tags: /tags/
+  about: /about/
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 # Enable/Disable menu icons.
 # Icon Mapping:
