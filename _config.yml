@@ -181,7 +181,7 @@ font:
     # external: true will load this font family from host.
     external: true
     family: Noto Sans KR
-    size: 16px
+    size: 20
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
@@ -194,7 +194,7 @@ font:
   posts:
     external: true
     family: Noto Sans KR
-    size: 16px
+    size: 20
 
   # Font settings for Logo
   # Fallback to `global` font settings.
@@ -202,13 +202,13 @@ font:
   logo:
     external: true
     family: Raleway
-    size: 30px
+    size: 30
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
     family: Nanum Gothic Coding
-    size: 14px
+    size: 16
 
 # ---------------------------------------------------------------
 # Sidebar Settings
