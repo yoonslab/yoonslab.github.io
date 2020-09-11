@@ -181,6 +181,7 @@ font:
     # external: true will load this font family from host.
     external: true
     family: Noto Sans KR
+    size:
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
@@ -273,7 +274,7 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 # Blog rolls
 #links_title: Links
