@@ -207,7 +207,6 @@ font:
   codes:
     external: true
     family: Nanum Gothic Coding
-    size: 16
 
 # ---------------------------------------------------------------
 # Sidebar Settings
