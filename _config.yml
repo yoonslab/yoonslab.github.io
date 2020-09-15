@@ -187,6 +187,7 @@ font:
   headings:
     external: true
     family: Noto Sans KR
+    size: 36
 
   # Font settings for posts
   # Fallback to `global` font settings.
