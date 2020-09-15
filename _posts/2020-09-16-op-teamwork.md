@@ -1,5 +1,5 @@
 ---
-title: 회사 내 팀웍에 대한 나의 생각
+title: 팀웍에 대한 나의 생각
 categories:
   - Opinion
 tags:
@@ -59,11 +59,11 @@ tags:
 다시 돌아와서, 4번 케이스 유형에게 보상에 대한 강한 동기를 만들지 못한다면, 그에 반대 여파를 느끼게 하는 견제도 하나의 방법이라고 생각한다. 아무런 demerit이 없이 다른 팀원들에게 부정적인 영향을 주는 사람들은 굉장히 이기주의적이기 때문에 본인에게 피해가 가지 않는다고 생각한다면 계속 같은 행동을 반복하기 떄문이다.
 
 ![img4](/assets/contents/2020-09-16/img4.png)
-<p style="color:gray; font-size:80%;" align="center">4번(유형)은 아무래도 개인주의가 맞는 것 같다</p>
+<p style="color:gray; font-size:100%;" align="center">4번(유형)은 아무래도 개인주의가 맞는 것 같다</p>
 
 앞으로 `나` 자신이 다른 사람들에게 부정적인 영향을 주는 4번 유형이 되지 않도록, 그리고 긍정적인 영향을 줄 수 있는 사람으로 성장할 수 있도록 계속 생각할 수 있게 글을 남겨본다.
 
 ![img2](/assets/contents/2020-09-16/img2.png)
-<p style="color:gray; font-size:80%;" align="center">팀과 함께 성장하는 나를 기대한다</p>
+<p style="color:gray; font-size:100%;" align="center">팀과 함께 성장하는 나를 기대한다</p>
 
 ---
