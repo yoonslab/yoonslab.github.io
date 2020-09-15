@@ -8,7 +8,7 @@ tags:
 
 ![Preview](/assets/contents/2020-09-16/img1.png)
 
-<p style="color:gray; font-size:80%;" align="center">출처: 유튜브 피지컬갤러리</p>
+<p style="color:gray; font-size:100%;" align="center">출처: 유튜브 피지컬갤러리</p>
 
 <br>
 
