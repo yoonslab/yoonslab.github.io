@@ -33,7 +33,7 @@ tags:
 > teamwork[ teem-wurk ]
 > noun
 >
-> 1. cooperative or coordinated effort on the part of a group of persons acting together as a > team or in the interests of a common cause.
+> 1. cooperative or coordinated effort on the part of a group of persons acting together as a team or in the interests of a common cause.
 > 2. work done with a team.
 
 dictionary.com에서 정의하는 [teamwork](https://www.dictionary.com/browse/teamwork?s=t)의 뜻은 다음과 같다.
