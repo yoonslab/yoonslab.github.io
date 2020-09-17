@@ -1,6 +1,8 @@
 // Header
 // --------------------------------------------------
-.header { background: $whitesmoke; }
+.header {
+  background: $whitesmoke;
+}
 .header-inner {
   padding: 25px 0 20px;
   @include clearfix();
@@ -25,19 +27,25 @@
     padding: 2px 1px;
     background: none;
 
-    @include mobile() { display: block; }
+    @include mobile() {
+      display: block;
+    }
   }
 
-  .logo { display: none; }
+  .logo {
+    display: none;
+  }
 
   .site-title {
-    font-size: 22px;
+    font-size: 32px;
     font-weight: bolder;
+    line-height: 46px;
 
-    @include mobile() { line-height: 34px; }
+    @include mobile() {
+      line-height: 34px;
+    }
   }
 }
-
 
 .logo-line-before,
 .logo-line-after {
@@ -46,18 +54,26 @@
   margin: 0 auto;
   width: 75%;
 
-  @include mobile() { display: none; }
+  @include mobile() {
+    display: none;
+  }
 
   i {
     position: relative;
     display: block;
     height: 2px;
     background: $black-deep;
-    @include mobile() { height: 3px; }
+    @include mobile() {
+      height: 3px;
+    }
   }
 }
 
 .use-motion {
-  .logo-line-before i { left: -100%; }
-  .logo-line-after i { right: -100%; }
+  .logo-line-before i {
+    left: -100%;
+  }
+  .logo-line-after i {
+    right: -100%;
+  }
 }
