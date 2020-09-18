@@ -58,7 +58,7 @@ Windows / Mac OS 둘 다 지원하고 게다가 무료라서 git bash 명령어�
 - git push remote_name — delete branch : 원격 branch 삭제 (git push origin — delete gh-pages)
 - git add file_path : 수정한 파일 선택 (git add \*)
 
-## cancel
+## restore
 
 - git reset — soft HEAD^ : 코드는 살리고 commit만 취소
 - git reset — merge : merge 취소
