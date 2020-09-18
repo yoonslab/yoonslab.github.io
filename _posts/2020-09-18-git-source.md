@@ -33,6 +33,7 @@ Windows / Mac OS 둘 다 지원하고 게다가 무료라서 git bash 명령어�
 <p style="color:gray; font-size:100%;" align="center">수정된 코드가 있다면 어디가 변경되었는지도 확인 가능</p>
 
 단순 commit은 git bash에서, branch history나 변경된 코드를 확인할 때는 주로 Source Tree를 활용한다.
+<br>
 
 # 자주쓰는 git 명령어 정리
 
@@ -72,6 +73,7 @@ Windows / Mac OS 둘 다 지원하고 게다가 무료라서 git bash 명령어�
 
 - git stash / git stash save “description” : 작업코드 임시저장하고 branch 변경
 - git stash pop : 마지막으로 임시저장한 작업코드 가져오기
+  <br>
 
 # Reference
 
