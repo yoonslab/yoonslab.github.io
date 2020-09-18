@@ -24,7 +24,7 @@ tags:
 
 <p style="color:gray; font-size:100%;" align="center">Source Tree: git branch 관리</p>
 
-Source Tree는 프로젝트 관리 툴 Jira로 유명한 [ATLASSIAN]](https://www.atlassian.com/)에서 만든 git 관리 툴이다.
+Source Tree는 프로젝트 관리 툴 Jira로 유명한 [ATLASSIAN](https://www.atlassian.com/)에서 만든 git 관리 툴이다.
 
 Windows / Mac OS 둘 다 지원하고 게다가 무료라서 git bash 명령어에 익숙치 않은 사용자들에게 추천하는 소프트웨어이다.
 
