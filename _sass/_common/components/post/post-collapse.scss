@@ -4,7 +4,8 @@
   .posts-collapse {
     margin: 0 20px;
 
-    .post-title, .post-meta {
+    .post-title,
+    .post-meta {
       display: block;
       width: auto;
       text-align: left;
@@ -29,15 +30,23 @@
   }
 
   margin-left: $posts-collapse-left;
-  @include mobile() { margin: 0 20px; }
+  @include mobile() {
+    margin: 0 20px;
+  }
 
   .collection-title {
     position: relative;
     margin: 60px 0;
 
-    h1, h2 { margin-left: 20px; }
+    h1,
+    h2 {
+      margin-left: 20px;
+    }
 
-    small { color: $grey; margin-left: 5px; }
+    small {
+      color: $grey;
+      margin-left: 5px;
+    }
 
     &::before {
       content: " ";
@@ -53,7 +62,9 @@
     }
   }
 
-  .post { margin: 30px 0; }
+  .post {
+    margin: 30px 0;
+  }
 
   .post-header {
     position: relative;
@@ -80,17 +91,21 @@
   .post-header:hover {
     border-bottom-color: $grey-dim;
 
-    &::before { background: $black-deep; }
+    &::before {
+      background: $black-deep;
+    }
   }
 
   .post-meta {
     position: absolute;
-    font-size: 12px;
+    font-size: 14px;
     left: 20px;
     top: 5px;
   }
 
-  .post-comments-count { display: none; }
+  .post-comments-count {
+    display: none;
+  }
 
   .post-title {
     margin-left: 60px;
